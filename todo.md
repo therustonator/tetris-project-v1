@@ -1,0 +1,4 @@
+- [ ] fix rotation and movement lock for all pieces
+- [ ] add piece selector 
+- [ ] add piece collision 
+- [ ] add score
